@@ -1,10 +1,8 @@
-# BootstrapSite
-Bootstrap site
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <!-- Theme Made By www.w3schools.com - No Copyright -->
-  <title>Bootstrap Theme Simply Me</title>
+  <title>Julia</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -15,12 +13,12 @@ Bootstrap site
   body {
       font: 20px Montserrat, sans-serif;
       line-height: 1.8;
-      color: #f5f6f7;
+      color: #474e5d;
   }
   p {font-size: 16px;}
   .margin {margin-bottom: 45px;}
   .bg-1 { 
-      background-color: #1abc9c; /* Green */
+      background-color: #ffff99; /* Yellow */
       color: #ffffff;
   }
   .bg-2 { 
@@ -32,10 +30,15 @@ Bootstrap site
       color: #555555;
   }
   .bg-4 { 
-      background-color: #2f2f2f; /* Black Gray */
+      background-color: #474e5d; /* Dark Blue */
       color: #fff;
+      
   }
-  .container-fluid {
+ h3{
+ 	color: #474e5d;
+ }
+ 
+ .container-fluid {
       padding-top: 70px;
       padding-bottom: 70px;
   }
